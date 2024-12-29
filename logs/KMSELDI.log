@@ -1,0 +1,53 @@
+23:20:43:418 2024.12.29 KMS GUI ELDI 37.1.0.0
+Official Site: 
+http://forums.mydigitallife.info/forums/51-KMS-tools
+KMSpico v10.2.0
+Windows Detected: Windows 10 Pro : Professional : 6.3 : 19045
+
+23:20:43:426 Loading SECOH-QAD...
+23:20:43:426 Set Registry : Image File Execution Options\SppExtComObj.exe:Debugger
+23:20:43:426 Using host Forward: 10.239.248.46:1688
+23:20:43:426 Using host Local: 127.192.60.152:1688
+23:20:43:426 Using method: SECOH-QAD
+23:20:43:442 Time Start: 12/29/2024 11:20:43 PM
+23:20:43:442 Checking Internet Connection...
+23:20:43:583 Internet Connection Detected
+23:20:43:584 Windows Detected: Windows 10 Pro : Professional : 6.3 : 19045
+23:20:43:585 Synchronizing Time...
+23:20:43:586 Using host Forward: 10.239.248.46:1688
+23:20:43:586 Using host Local: 127.192.60.152:1688
+23:20:43:587 Using method: SECOH-QAD
+23:20:43:616 Opening Firewall Port...
+23:20:43:715 Opening Firewall App...
+23:20:43:757 Time synchronized
+23:20:43:766 Error: Cannot start service W32Time on computer '.'. ᜀ
+23:20:43:883 KMSEmulator Port: 1688
+23:20:43:883 Get Registry : SYSTEM\CurrentControlSet\Services\sppsvc:Start
+23:20:43:895 KMSEmulator running port: 1688
+23:20:44:130 Office 2013 Skipped
+23:20:44:136 Office 2010 Skipped
+23:20:44:137 Loading OEM Key Dumper...
+23:20:44:139 Key found on MSDM: -33WXC
+23:20:44:141 Office 2016 Found: C:\Program Files\Microsoft Office\root\Office16
+23:20:44:840 Found Office 2016 Products: 1
+23:20:44:849 Name: Office 16, Office16ProPlusVL_KMS_Client edition
+Description: Office 16, VOLUME_KMSCLIENT channel
+GracePeriodRemaining: 259192
+LicenseStatus: 1
+PartialProductKey: WFG99
+GenuineStatus: 0
+
+23:20:44:849 Installing Key: -33WXC
+23:20:46:121 InstallProductKey -33WXC 0
+23:20:48:115 RefreshLicenseStatus 0
+23:20:48:120 DisableKeyManagementServiceHostCaching 0
+23:20:48:123 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4f414197-0fc2-4c01-b68a-86cbb9ac254c:KeyManagementServiceName
+23:20:48:123 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4f414197-0fc2-4c01-b68a-86cbb9ac254c:KeyManagementServicePort
+23:20:48:124 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\6bf301c1-b94a-43e9-ba31-d494598c47fb:KeyManagementServiceName
+23:20:48:124 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\6bf301c1-b94a-43e9-ba31-d494598c47fb:KeyManagementServicePort
+23:20:48:124 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServiceName
+23:20:48:125 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServicePort
+23:20:48:125 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\d450596f-894d-49e0-966a-fd39ed4c4c64:KeyManagementServiceName
+23:20:48:125 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\d450596f-894d-49e0-966a-fd39ed4c4c64:KeyManagementServicePort
+23:20:48:246 OEM Key Found: Version Windows Skipped
+23:20:48:248 OEM Activation needs Internet Connection
